@@ -22,12 +22,9 @@ pod "BlinkingLabel"
 
 ## Author
 
-Arti Yadav, arti.yadav@musoftwaresolutions.com
+Arti Yadav, arti_yadav@live.com
 
 ## License
 
 BlinkingLabel is available under the MIT license. See the LICENSE file for more info.
-# BlinkingLabel
-# BlinkingLabel
-# BlinkingLabel
-# BlinkingLabel
+# BlinkingLabel# BlinkingLabel
