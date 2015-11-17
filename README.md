@@ -27,3 +27,4 @@ Arti Yadav, arti.yadav@musoftwaresolutions.com
 ## License
 
 BlinkingLabel is available under the MIT license. See the LICENSE file for more info.
+# BlinkingLabel
